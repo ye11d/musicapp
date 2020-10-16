@@ -80,7 +80,7 @@ export default {
     },
     getVolume: function() {
       let volume = localStorage.getItem('volume')
-      if (typeof(Number(volume)) === "number" && (Number(volume) >= 0) && (Number(volume) <= 1)) {
+      if (typeof(volume != undefined && Number(volume)) === "number" && (Number(volume) >= 0) && (Number(volume) <= 1)) {
         return Number(volume)
       } else {
         localStorage.setItem('volume', 1)
