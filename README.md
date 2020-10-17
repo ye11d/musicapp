@@ -15,7 +15,7 @@
 
 [注] 默认运行端口为3400
 
-[注]解决跨域问题: 在app.ts中的const app = express();之后加入此段代码
+[注] 解决跨域问题: 在app.ts中的const app = express();之后加入此段代码
 
 ```
 app.all("*", function (req, res, next) {
