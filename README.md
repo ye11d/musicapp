@@ -9,20 +9,20 @@
 [预览网站](http://175.24.16.52:3000/)
 
 #### 首页 (预览图放在github, 加载不出的话需要梯子)
-![](https://github.com/ye11d/musicapp/raw/master/public/images/preview/home1.png)
-![](https://github.com/ye11d/musicapp/raw/master/public/images/preview/home2.png)
+![](https://github.com/ye11d/musicapp/raw/main/public/images/preview/home1.png)
+![](https://github.com/ye11d/musicapp/raw/main/public/images/preview/home2.png)
 
 #### 歌单页面
-![](https://github.com/ye11d/musicapp/raw/master/public/images/preview/songsheet.png)
+![](https://github.com/ye11d/musicapp/raw/main/public/images/preview/songsheet.png)
 
 #### 喜欢的音乐
-![](https://github.com/ye11d/musicapp/raw/master/public/images/preview/mylike.png)
+![](https://github.com/ye11d/musicapp/raw/main/public/images/preview/mylike.png)
 
 #### 搜索
-![](https://github.com/ye11d/musicapp/raw/master/public/images/preview/search.png)
+![](https://github.com/ye11d/musicapp/raw/main/public/images/preview/search.png)
 
 #### 播放列表
-![](https://github.com/ye11d/musicapp/raw/master/public/images/preview/playlist.png)
+![](https://github.com/ye11d/musicapp/raw/main/public/images/preview/playlist.png)
 
 # 使用指南:
 一.运行咪咕音乐API爬取音乐资源
